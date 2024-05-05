@@ -1,5 +1,5 @@
 <div align="center">
-  Curso Desenvolvedor FullStack Grupo +PraTi
+  <h1>Curso Desenvolvedor FullStack Grupo +PraTi</h1>
 </div>
 
 <strong><h2>Módulo 1 - Lógica com JavaScript:</h2></strong>
